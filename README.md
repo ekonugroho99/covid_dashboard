@@ -10,6 +10,10 @@ This dashboard is devoloped by using `R Languange` and some libraries i.e `shiny
 
 ## Dataset
 The Corona Virus Dataset pulled from [Rami Krispin's Github](https://github.com/RamiKrispin/coronavirus). Thanks pal @RamiKrispin !
+```
+load("coronavirus.rda")
+head(coronavirus)
+```
 
 ## Dashboard
 This dashboard page show  total confirm case, active case, recover and death case in the`valueBox`. The map on this page show the countries status and case for every country in the world, so you can well prepare when you must go abroad. This map using `leaflet` library.

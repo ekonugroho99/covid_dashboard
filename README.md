@@ -9,4 +9,4 @@ This is repository of my first project, Covid Dashboard, which will help you to 
 This dashboard is devoloped by using `R Languange` and some libraries i.e `shiny`,`shinydashboard`,`shinydashboardPlus`,`shinythemes`,`shinyWidgets`,`dashboardthemes`,`ggplot2`,`plotly`,`leaflet ` and more. You can chek all libraries in `global.r`
 
 ## Map
-![test image size]<img src="images/dashboard" width="400" height="790">
+![dashboard_img]<img src="images/dashboard.png">

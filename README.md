@@ -14,7 +14,7 @@ The Corona Virus Dataset pulled from [Rami Krispin's Github](https://github.com/
 load("coronavirus.rda")
 head(coronavirus)
 ```
-
+![dataset](images/dataset.png)
 ## Dashboard
 This dashboard page show  total confirm case, active case, recover and death case in the`valueBox`. The map on this page show the countries status and case for every country in the world, so you can well prepare when you must go abroad. This map using `leaflet` library.
 
@@ -41,4 +41,7 @@ In this page you can comparing your country with the others so you can check how
 
 ## Shinyapps
 For further information, you can check my project in [Covid Dashboard](https://nugroho.shinyapps.io/covid/)
+
+## Project Status
+This project is still developed (v1.0), if you have any comment or advise, feel free to contact me
 

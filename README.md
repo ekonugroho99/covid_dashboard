@@ -25,15 +25,15 @@ This page will show you the trend of confirm, active, recovered and death cases 
 ![trend](images/trend.png)
 
 ## Comparison
-In this page you can comparing your country with the others so you can check how good (or bad) your government handle this pandemic and how obidient your people to obey the rules. You can also see the daily and monthly trend between two countries. 
+In this page you can comparing your country with the others so you can check how good (or bad) your government handle this pandemic and how obidient your people to obey the protocols. You can also see the daily and monthly trend between two countries. 
 ![comparison](images/comparison_1.png)
 
 **Trend's plot:**
 ![trend_comparison](images/comparison_trend.png)
 
 **Show Mini Map**
-<img src="images/arrow.png" width="100" height="80" />
+<img src="images/comparison_map.png" width="100" height="80" />
 
 ## Shinyapps
-For further information, you can check my prohect in [Covid Dashboard](https://nugroho.shinyapps.io/covid/)
+For further information, you can check my project in [Covid Dashboard](https://nugroho.shinyapps.io/covid/)
 

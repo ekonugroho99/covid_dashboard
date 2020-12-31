@@ -8,6 +8,9 @@ This is repository of my first project, Covid Dashboard, which will help you to 
 ## Library
 This dashboard is devoloped by using `R Languange` and some libraries i.e `shiny`,`shinydashboard`,`shinydashboardPlus`,`shinythemes`,`shinyWidgets`,`dashboardthemes`,`ggplot2`,`plotly`,`leaflet ` and more. You can check all libraries in `global.r`
 
+## Dataset
+The Corona Virus Dataset pulled from [Rami Krispin's Github](https://github.com/RamiKrispin/coronavirus)
+
 ## Dashboard
 This dashboard page show  total confirm case, active case, recover and death case in the`valueBox`. The map on this page show the countries status and case for every country in the world. This map using `leaflet` library.
 

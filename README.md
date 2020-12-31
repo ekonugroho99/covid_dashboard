@@ -32,4 +32,8 @@ In this page you can comparing your country with the others so you can check how
 ![trend_comparison](images/comparison_trend.png)
 
 **Show Mini Map**
-![mini_map](images/comparison_map.png)
+<img src="images/arrow.png" width="100" height="80" />
+
+## Shinyapps
+For further information, you can check my prohect in [Covid Dashboard](https://nugroho.shinyapps.io/covid/)
+

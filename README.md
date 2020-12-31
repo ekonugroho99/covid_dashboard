@@ -11,4 +11,4 @@ This dashboard is devoloped by using `R Languange` and some libraries i.e `shiny
 ## Dashboard with Leaflet
 This dashboard page show  total confirm case, active case, recover and death case in the`valueBox`. The map on this page show the countries status and case for every country in the world
 
-![dashboard]("images/dashboard.png")
+![dashboard](images/dashboard.png)

@@ -31,8 +31,9 @@ In this page you can comparing your country with the others so you can check how
 **Trend's plot:**
 ![trend_comparison](images/comparison_trend.png)
 
-**Show Mini Map**
-<img src="images/comparison_map.png" width="100" height="80" />
+**Show Mini Map** <br>
+
+<img src="images/comparison_map.png" width="400" height="350" />
 
 ## Shinyapps
 For further information, you can check my project in [Covid Dashboard](https://nugroho.shinyapps.io/covid/)

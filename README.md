@@ -10,7 +10,7 @@ This dashboard is devoloped by using `R Languange` and some libraries i.e `shiny
 
 ## Dataset
 The Corona Virus Dataset pulled from [Rami Krispin's Github](https://github.com/RamiKrispin/coronavirus). Thanks pal @RamiKrispin !
-```
+```r --run
 load("coronavirus.rda")
 head(coronavirus)
 ```
